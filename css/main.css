@@ -1,0 +1,41 @@
+.top-buffer {
+    margin-top: 64px;
+}
+
+.no-top-buffer {
+    margin-top: 0px;
+}
+
+.marginupdown128 {
+    margin-top: 128px;
+    margin-bottom: 128px;
+}
+
+.grey {
+    color: grey;
+}
+
+.syncopate {
+    font-family: 'Syncopate', sans-serif;
+}
+
+.play {
+    font-family: 'Play', sans-serif;
+}
+
+.font700 {
+    font-weight: 700;
+}
+
+.small-caps {
+    font-variant: small-caps;
+}
+
+.fontsize64 {
+    font-size: 64px;
+}
+
+.hbars2 {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
