@@ -39,3 +39,9 @@
     border-top: 2px solid black;
     border-bottom: 2px solid black;
 }
+
+.social {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+}
